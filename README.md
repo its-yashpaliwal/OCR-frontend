@@ -1,6 +1,12 @@
+
+
+
+
 # OCR Data Extraction Frontend
 
 This project is a web application that utilizes Optical Character Recognition (OCR) to extract identification information from images. Users can upload images, and the application will process them, extracting relevant data such as identification number, first name, last name, date of birth, issue date, and expiry date. The extracted data is then displayed on the user interface, and users have the option to save the information to a backend server.
+# Web Link
+https://ocrwebapp-lec5.onrender.com/
 
 ## Features
 
