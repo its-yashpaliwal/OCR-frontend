@@ -36,7 +36,7 @@ const Home = () => {
           formData.append('image', file);
     
           // Make a POST request to your server to handle the file upload and OCR
-          const response = await axios.post('http://localhost:5000/upload', formData);
+          const response = await axios.post('https://ocrbackend.onrender.com', formData);
     
           
           console.log(response.data);
